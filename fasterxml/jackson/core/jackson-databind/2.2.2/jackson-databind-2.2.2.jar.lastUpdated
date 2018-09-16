@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sat Jul 07 15:46:29 IST 2018
+https\://app.camunda.com/nexus/content/groups/public/.lastUpdated=1530958589032
+http\://maven.repository.redhat.com/techpreview/all/.lastUpdated=1530958587365
+https\://app.camunda.com/nexus/content/repositories/camunda-bpm-ee/.error=Could not transfer artifact com.fasterxml.jackson.core\:jackson-databind\:jar\:2.2.2 from/to camunda-bpm-nexus (https\://app.camunda.com/nexus/content/repositories/camunda-bpm-ee)\: Access denied to https\://app.camunda.com/nexus/content/repositories/camunda-bpm-ee/com/fasterxml/jackson/core/jackson-databind/2.2.2/jackson-databind-2.2.2.jar. Error code 401, Unauthorized
+http\://maven.repository.redhat.com/techpreview/all/.error=
+@default-camunda-bpm-nexus-https\://app.camunda.com/nexus/content/repositories/camunda-bpm-ee/.lastUpdated=1530958587525

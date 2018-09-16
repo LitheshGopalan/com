@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sun Sep 16 13:07:26 IST 2018
+http\://www.atomikos.com/maven-repository/.error=Could not transfer artifact com.ibm.mq\:allclient\:pom\:9.1.0.0 from/to atomikos (http\://www.atomikos.com/maven-repository)\: Access denied to http\://www.atomikos.com/maven-repository/com/ibm/mq/allclient/9.1.0.0/allclient-9.1.0.0.pom. Error code 401, Unauthorized
+https\://repo.maven.apache.org/maven2/.lastUpdated=1537083446076
+http\://maven.repository.redhat.com/techpreview/all/.lastUpdated=1536420798588
+http\://maven.repository.redhat.com/techpreview/all/.error=
+@default-atomikos-http\://www.atomikos.com/maven-repository/.lastUpdated=1537083444478
+https\://repo.maven.apache.org/maven2/.error=

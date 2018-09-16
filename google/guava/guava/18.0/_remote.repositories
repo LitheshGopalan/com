@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sun Jul 08 19:13:23 IST 2018
+guava-18.0.jar>jboss-public-repository-group=
+guava-18.0.pom>jboss-public-repository-group=
+guava-18.0.jar>central=
+guava-18.0.pom>central=
+guava-18.0-sources.jar>central=

@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sun Jul 08 18:02:10 IST 2018
+http\://maven.repository.redhat.com/techpreview/all/.lastUpdated=1531053129764
+https\://repo.maven.apache.org/maven2/.lastUpdated=1531053130305
+https\://app.camunda.com/nexus/content/repositories/camunda-bpm-ee/.error=Could not transfer artifact com.rabbitmq\:amqp-client\:pom\:3.5.7 from/to camunda-bpm-nexus (https\://app.camunda.com/nexus/content/repositories/camunda-bpm-ee)\: Access denied to https\://app.camunda.com/nexus/content/repositories/camunda-bpm-ee/com/rabbitmq/amqp-client/3.5.7/amqp-client-3.5.7.pom. Error code 401, Unauthorized
+http\://maven.repository.redhat.com/techpreview/all/.error=
+@default-camunda-bpm-nexus-https\://app.camunda.com/nexus/content/repositories/camunda-bpm-ee/.lastUpdated=1531053129935

@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sun Jul 08 18:01:54 IST 2018
+https\://app.camunda.com/nexus/content/groups/public/.lastUpdated=1529592334455
+http\://maven.repository.redhat.com/techpreview/all/.lastUpdated=1529592333900
+https\://repo.maven.apache.org/maven2/.lastUpdated=1531053114595
+https\://app.camunda.com/nexus/content/repositories/camunda-bpm-ee/.error=Could not transfer artifact com.google.code.findbugs\:jsr305\:pom\:3.0.1 from/to camunda-bpm-nexus (https\://app.camunda.com/nexus/content/repositories/camunda-bpm-ee)\: Access denied to https\://app.camunda.com/nexus/content/repositories/camunda-bpm-ee/com/google/code/findbugs/jsr305/3.0.1/jsr305-3.0.1.pom. Error code 401, Unauthorized
+http\://maven.repository.redhat.com/techpreview/all/.error=
+@default-camunda-bpm-nexus-https\://app.camunda.com/nexus/content/repositories/camunda-bpm-ee/.lastUpdated=1529592334070

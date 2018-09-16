@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Jun 21 20:15:10 IST 2018
+https\://app.camunda.com/nexus/content/groups/public/.lastUpdated=1529592310197
+http\://maven.repository.redhat.com/techpreview/all/.lastUpdated=1529592309630
+https\://app.camunda.com/nexus/content/repositories/camunda-bpm-ee/.error=Could not transfer artifact com.jayway.jsonpath\:json-path\:pom\:2.2.0 from/to camunda-bpm-nexus (https\://app.camunda.com/nexus/content/repositories/camunda-bpm-ee)\: Access denied to https\://app.camunda.com/nexus/content/repositories/camunda-bpm-ee/com/jayway/jsonpath/json-path/2.2.0/json-path-2.2.0.pom. Error code 401, Unauthorized
+http\://maven.repository.redhat.com/techpreview/all/.error=
+@default-camunda-bpm-nexus-https\://app.camunda.com/nexus/content/repositories/camunda-bpm-ee/.lastUpdated=1529592309795

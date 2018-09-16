@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sun Jul 08 18:00:39 IST 2018
+https\://app.camunda.com/nexus/content/groups/public/.lastUpdated=1529592212548
+http\://maven.repository.redhat.com/techpreview/all/.lastUpdated=1529592211941
+https\://repo.maven.apache.org/maven2/.lastUpdated=1531053039613
+https\://app.camunda.com/nexus/content/repositories/camunda-bpm-ee/.error=Could not transfer artifact com.fasterxml.uuid\:java-uuid-generator\:pom\:3.1.2 from/to camunda-bpm-nexus (https\://app.camunda.com/nexus/content/repositories/camunda-bpm-ee)\: Access denied to https\://app.camunda.com/nexus/content/repositories/camunda-bpm-ee/com/fasterxml/uuid/java-uuid-generator/3.1.2/java-uuid-generator-3.1.2.pom. Error code 401, Unauthorized
+http\://maven.repository.redhat.com/techpreview/all/.error=
+@default-camunda-bpm-nexus-https\://app.camunda.com/nexus/content/repositories/camunda-bpm-ee/.lastUpdated=1529592212107

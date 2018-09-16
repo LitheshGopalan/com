@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sat Jun 23 13:28:40 IST 2018
+https\://app.camunda.com/nexus/content/groups/public/.lastUpdated=1529592550960
+https\://repo.maven.apache.org/maven2/.lastUpdated=1529740720243
+http\://maven.repository.redhat.com/techpreview/all/.lastUpdated=1529592436064
+https\://app.camunda.com/nexus/content/repositories/camunda-bpm-ee/.error=Could not transfer artifact com.vaadin.external.google\:android-json\:jar\:0.0.20131108.vaadin1 from/to camunda-bpm-nexus (https\://app.camunda.com/nexus/content/repositories/camunda-bpm-ee)\: Access denied to https\://app.camunda.com/nexus/content/repositories/camunda-bpm-ee/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar. Error code 401, Unauthorized
+http\://maven.repository.redhat.com/techpreview/all/.error=
+@default-camunda-bpm-nexus-https\://app.camunda.com/nexus/content/repositories/camunda-bpm-ee/.lastUpdated=1529592458115

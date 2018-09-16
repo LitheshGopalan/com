@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.camunda.consulting.demo.springboot</groupId>
+  <artifactId>mycamunda</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20180826122344</lastUpdated>
+  </versioning>
+</metadata>

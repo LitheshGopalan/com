@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sun Dec 04 15:39:42 IST 2016
+sales-1.0.pom>=
+sales-1.0-classes.jar>=
+sales-1.0.war>=

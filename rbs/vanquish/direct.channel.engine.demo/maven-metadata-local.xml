@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.rbs.vanquish</groupId>
+  <artifactId>direct.channel.engine.demo</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20180621135235</lastUpdated>
+  </versioning>
+</metadata>

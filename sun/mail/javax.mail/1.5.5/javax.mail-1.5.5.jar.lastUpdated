@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sun Jul 08 18:04:06 IST 2018
+http\://maven.repository.redhat.com/techpreview/all/.lastUpdated=1531053178314
+https\://repo.maven.apache.org/maven2/.lastUpdated=1531053246409
+https\://app.camunda.com/nexus/content/repositories/camunda-bpm-ee/.error=Could not transfer artifact com.sun.mail\:javax.mail\:jar\:1.5.5 from/to camunda-bpm-nexus (https\://app.camunda.com/nexus/content/repositories/camunda-bpm-ee)\: Access denied to https\://app.camunda.com/nexus/content/repositories/camunda-bpm-ee/com/sun/mail/javax.mail/1.5.5/javax.mail-1.5.5.jar. Error code 401, Unauthorized
+http\://maven.repository.redhat.com/techpreview/all/.error=
+@default-camunda-bpm-nexus-https\://app.camunda.com/nexus/content/repositories/camunda-bpm-ee/.lastUpdated=1531053195012

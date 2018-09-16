@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Jun 21 20:16:15 IST 2018
+https\://app.camunda.com/nexus/content/groups/public/.lastUpdated=1529592375167
+http\://maven.repository.redhat.com/techpreview/all/.lastUpdated=1529592374652
+https\://app.camunda.com/nexus/content/repositories/camunda-bpm-ee/.error=Could not transfer artifact com.h2database\:h2\:pom\:1.4.196 from/to camunda-bpm-nexus (https\://app.camunda.com/nexus/content/repositories/camunda-bpm-ee)\: Access denied to https\://app.camunda.com/nexus/content/repositories/camunda-bpm-ee/com/h2database/h2/1.4.196/h2-1.4.196.pom. Error code 401, Unauthorized
+http\://maven.repository.redhat.com/techpreview/all/.error=
+@default-camunda-bpm-nexus-https\://app.camunda.com/nexus/content/repositories/camunda-bpm-ee/.lastUpdated=1529592374829
